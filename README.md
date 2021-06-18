@@ -18,7 +18,6 @@ _EVS Environment_
 	+ Long description
 	![image](https://user-images.githubusercontent.com/86099035/122597246-bd994400-d088-11eb-80c6-83af104884a8.png)
 	![image](https://user-images.githubusercontent.com/86099035/122597307-d0137d80-d088-11eb-8a93-da5450282af5.png)
-	![image](https://user-images.githubusercontent.com/86099035/122597456-0224df80-d089-11eb-83c6-9d45db08cce1.png)
 
 	+ Project roadmap
 	![image](https://user-images.githubusercontent.com/86099035/122597415-f0433c80-d088-11eb-939e-770e96db3ed8.png)
