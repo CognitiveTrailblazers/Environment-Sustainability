@@ -37,7 +37,7 @@ _EVS Environment_
 	+ Versioning
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Github
 	+ Authors
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; susriva9@in.ibm.com, nikimen1@in.ibm.com, shubham1@ibm.com, susmgang@in.ibm.com
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; susriva9@in.ibm.com, nikimen1@in.ibm.com, shubham1@ibm.com, susmgang@in.ibm.com, rohitkrsingh@in.ibm.com
 	+ License
 	+ Acknowledgments
 
