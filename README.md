@@ -1,8 +1,8 @@
-**Submission or project name H**
+**Submission or project name**
 
 _EVS Environment_ 
-<font color="blue">
- * **Contents**	
+
+* **Contents**	
 	+ Short description
 	  	* What's the problem 
 	 	* How can technology help?
