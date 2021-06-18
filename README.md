@@ -34,11 +34,16 @@ _EVS Environment_
 	+ Built with
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IBM Cloud - COS, Plotly, DASH, Python, Time Series Forecasting, Live API, IBM Pairs
 	+ Contributing
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://indiawris.gov.in/wris/#/lulc
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://openaq.org/#/locations?page=1&countries=IN
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; http://www.cpcbenvis.nic.in/
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://ibmpairs.mybluemix.net/
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.copernicus.eu/en
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://indiawris.gov.in/wris/#/lulc
+		
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://openaq.org/#/locations?page=1&countries=IN
+		
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; http://www.cpcbenvis.nic.in/
+		
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://ibmpairs.mybluemix.net/
+		
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.copernicus.eu/en
+		
 	+ Versioning
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Github
 	+ Authors
