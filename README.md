@@ -1,10 +1,10 @@
 **Submission or project name H**
 
 _EVS Environment_ 
-
-* **Contents**	
+<font color="blue">
+ * **Contents**	
 	+ Short description
-	 	* What's the problem?
+	  	* What's the problem 
 	 	* How can technology help?
 	 	* The idea
 	+ Demo video
