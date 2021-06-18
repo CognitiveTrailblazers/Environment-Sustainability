@@ -32,7 +32,8 @@ _EVS Environment_
 	+ Live demo
 	http://evs.eu-gb.cf.appdomain.cloud/
 	+ Built with
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IBM Cloud - COS, Plotly, DASH, Python, Time Series Forecasting, Live API, IBM Pairs
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IBM Products : IBM Cloud - COS, IBM Pairs Plotly
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DASH, Python, Time Series Forecasting, Live API
 	+ Contributing
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://indiawris.gov.in/wris/#/lulc
 		
