@@ -32,12 +32,12 @@ _EVS Environment_
 	+ Live demo
 	http://evs.eu-gb.cf.appdomain.cloud/
 	+ Built with
-	* IBM Cloud - COS, Plotly, DASH, Python, Time Series Forecasting, Live API, 
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IBM Cloud - COS, Plotly, DASH, Python, Time Series Forecasting, Live API, 
 	+ Contributing
 	+ Versioning
-	* Github
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Github
 	+ Authors
-	* susriva9@in.ibm.com, nikimen1@in.ibm.com, shubham1@ibm.com, susmgang@in.ibm.com
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; susriva9@in.ibm.com, nikimen1@in.ibm.com, shubham1@ibm.com, susmgang@in.ibm.com
 	+ License
 	+ Acknowledgments
 
