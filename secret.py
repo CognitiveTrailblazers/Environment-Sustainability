@@ -1,1 +1,1 @@
-mapbox_api_token = 'pk.eyJ1IjoiZGVlcGFrYXRyZWphIiwiYSI6ImNrcDR2YzR2aTFvZGcydm13Z2Mwb2Y4NHgifQ.zjKRoGAYn9eBHBSJD7MDhQ'
+mapbox_api_token = 'xxxx'
